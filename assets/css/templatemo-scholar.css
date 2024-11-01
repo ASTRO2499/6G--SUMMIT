@@ -675,7 +675,7 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner-item-01.jpg);
+  
 }
 
 .main-banner .item-2 {
@@ -696,9 +696,9 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #7a6ad8;
+  background-color: #3d5dfa;
   color: #fff;
-  font-size: 14px;
+  font-size: 28px;
   text-transform: uppercase;
   padding: 5px 15px;
   border-radius: 20px;
