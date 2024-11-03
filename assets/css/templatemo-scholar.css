@@ -1390,21 +1390,7 @@ Events Style
   font-weight: 600;
 }
 
-.events .item a {
-  position: absolute;
-  right: 0;
-  top: 22px;
-  background-color: #7a6ad8;
-  width: 60px;
-  height: 120px;
-  display: inline-block;
-  text-align: center;
-  line-height: 120px;
-  font-size: 18px;
-  z-index: 1;
-  color: #fff;
-  border-radius: 60px 0px 0px 60px;
-}
+
 
 
 /* 
