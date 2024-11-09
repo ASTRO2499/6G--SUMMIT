@@ -1129,7 +1129,7 @@ Team Style
   max-width: 220px;
   border-radius: 50%;
   position: absolute;
-  top: -110px;
+  top: -130px;
   left: 50%;
   transform: translateX(-110px);
   transition: all .3s;
